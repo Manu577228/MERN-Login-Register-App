@@ -14,9 +14,9 @@ I'm Manu Bharadwaj, a passionate Software Engineer.
 
 To get started with this project, follow these simple steps:
 
-1.Clone the repository.
+1. Clone the repository.
 
-2.Start Changing the Code according to your expectations. 
+2. Start Changing the Code according to your expectations. 
 
 
 ## How to Contribute
